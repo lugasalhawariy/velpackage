@@ -1,0 +1,15 @@
+{
+    "name": "root/simple-package",
+    "autoload": {
+        "psr-4": {
+            "Root\\SimplePackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lugas Alhawariy",
+            "email": "lugasalhawariy@gmail.com"
+        }
+    ],
+    "require": {}
+}
